@@ -1,5 +1,5 @@
-# case-study-healthcare-analytics-in-power-bi
-case-study-healthcare-analytics-in-power-bi
+# Case-Study-Healthcare-Analytics-Power-BI
+Visualizing the healthcare data in Power BI
 
 # Dashboards
 • Developed interactive healthcare data analytics dashboards in Power BI with the data obtained from Azure ADLS to support data-driven decision-making and enhance business intelligence.
